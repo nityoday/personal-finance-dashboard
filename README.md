@@ -1,5 +1,5 @@
 # personal-finance-dashboard
-Best used with app "Money Manager" by Realbyte, Inc. This project provides a Streamlit-based dashboard for analyzing your personal expenses, using data exported from the **Money Manager Expense & Budget** app by Realbyte Inc. The dashboard allows you to visualize and explore your spending habits, helping you make better financial decisions.
+Best used with app "Money Manager" by Realbyte, Inc. This project provides a Streamlit-based dashboard for analyzing your personal expenses, using data exported from the **Money Manager Expense & Budget** [Android](https://play.google.com/store/apps/details?id=com.realbyteapps.moneymanagerfree&pcampaignid=web_share) app or [iOS](https://apps.apple.com/us/app/money-manager-expense-budget/id560481810) app by [Realbyte Inc.](https://www.realbyteapps.com/) . The dashboard allows you to visualize and explore your spending habits, helping you make better financial decisions.
 
 ---
 
@@ -80,7 +80,7 @@ Best used with app "Money Manager" by Realbyte, Inc. This project provides a Str
 ---
 
 ## Notes
-
+This project is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the Money Manager Expense & Budget app, Realbyte Inc., or its website, https://www.realbyteapps.com/. All product and company names are trademarks™ or registered® trademarks of their respective holders. Use of these names, trademarks, and brands does not imply endorsement.
 - The app is designed for personal use and does not store any uploaded data.
 
 ---
